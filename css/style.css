@@ -60,7 +60,7 @@
 .carousel-caption {
 	  color: #fff;
     border-radius: 12px;
-    border-top: solid 8px #fff;
+    /*border-top: solid 1px #fff;*/
     box-shadow: 8px 15px 15px #000;
 }
 
